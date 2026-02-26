@@ -16,7 +16,7 @@ It generates creative, style-controlled responses based on selected character mo
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 style_explainer/
 │
