@@ -1,7 +1,15 @@
 from groq import Groq
+import os
+from dotenv import load_dotenv
+
+# Load variables from .env file
+load_dotenv()
+
+# Get API key from environment
+api_key = os.getenv("GROQ_API_KEY")
 
 # Initialize Groq client
-client = Groq(api_key="")
+client = Groq(api_key=api_key)
 
 def generate_explanation(topic, style):
     system_prompt = """
