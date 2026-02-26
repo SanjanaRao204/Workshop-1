@@ -42,3 +42,4 @@ output = generate_explanation(topic, style)
 
 print("\n--- AI Explanation ---\n")
 print(output)
+
