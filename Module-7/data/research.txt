@@ -1,0 +1,4 @@
+A research paper includes abstract, methodology, results, and conclusion.
+Literature review identifies gaps in existing research.
+Evaluation metrics measure model performance.
+Reproducibility is essential in research.

@@ -1,0 +1,6 @@
+Technical interviews test DSA, system design, and core subjects.
+HR interviews evaluate communication and culture fit.
+Common DSA topics include arrays, linked lists, trees, and graphs.
+Resume projects should show measurable impact.
+Behavioral questions follow the STAR method.
+System design interviews focus on scalability and trade-offs.
