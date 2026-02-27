@@ -1,0 +1,4 @@
+Debugging involves isolating the root cause of errors.
+Read error messages carefully.
+Use print statements or logging for tracing.
+Optimize code for readability and efficiency.

@@ -1,0 +1,4 @@
+Technical interviews test DSA and system design.
+HR interviews focus on communication and culture fit.
+Behavioral answers should use the STAR method.
+Projects must show measurable impact.
