@@ -50,4 +50,3 @@ if __name__ == "__main__":
 
     print("\n--- AI OUTPUT ---\n")
     print(generate_response(topic, temperature))
-    
